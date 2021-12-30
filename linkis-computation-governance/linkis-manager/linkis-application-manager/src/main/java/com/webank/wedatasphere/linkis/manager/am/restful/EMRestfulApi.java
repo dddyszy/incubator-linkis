@@ -54,9 +54,6 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;
-import scala.util.parsing.json.JSON;
-import scala.util.parsing.json.JSONObject;
-import scala.util.parsing.json.JSONObject$;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.ws.rs.*;
